@@ -1,0 +1,26 @@
+/* propiedad creada por el desarrollador */
+body{
+    background-color: rgb(198, 216, 216);
+    font-family: 'Hurricane', cursive;
+    /*margin-left: 50px;
+    margin-right: 50px;*/
+    margin: 0px 50px;
+}
+
+.red-text{
+    color:red;
+    font-family: arial;
+    
+}
+.blue-text{
+    color: blue;
+    font-family: Arial;
+    text-shadow: 3px 3px 5px rgb(235, 33, 33);
+}
+.card{
+    border: 1px solid black;
+    padding: 12px;
+    padding: 12px;
+    box-shadow: 3px 3px 15px black;
+    margin-top: 50px;
+}
